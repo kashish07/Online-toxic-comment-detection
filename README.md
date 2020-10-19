@@ -1,1 +1,1 @@
-# Online-toxic-comment-detection
+# Online toxic comment detection
